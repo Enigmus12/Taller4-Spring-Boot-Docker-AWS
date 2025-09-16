@@ -86,7 +86,9 @@ Example:
     http://localhost:8080/images/fondo.jpg
     http://localhost:8080/images/fondo.png
 
-## Execution & Endpoints (Cloud) :
+## Execution & Endpoints (Cloud) 
+
+In the root folder, you will find a video (Lab-04-Endpoints) demonstrating the tests performed on the following endpoints :
 
     http://ec2-54-85-29-6.compute-1.amazonaws.com:42000/
     http://ec2-54-85-29-6.compute-1.amazonaws.com:42000/greeting?name=Juan
